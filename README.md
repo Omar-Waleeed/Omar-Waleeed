@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar-waleeed&label=Profile%20views&color=0e75b6&style=flat" alt="omar-waleeed" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Web Development**
 
-- 📫 How to reach me **omar1@ieee.com or omar.alsug@ieee.com**
+- 📫 How to reach me **omar1@ieee.com or omar.alsug@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
