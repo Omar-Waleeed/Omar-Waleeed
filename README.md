@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 📫 How to reach me **omar1@ieee.com or omar.alsug@gmail.com**
+- 📫 How to reach me **omaralsughair1@gmail.com or omar1@ieee.org**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
