@@ -15,5 +15,5 @@
 <a href="https://instagram.com/omar.waleeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omar.waleeed" height="30" width="40" /></a>
 </p>
 
--My Skills:
+<h3 align="left">Connect with me:</h3>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,py,cpp,cs,linux,ubuntu,git,ai,ps,pr,ae,vscode)](https://skillicons.dev)
